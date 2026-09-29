@@ -1,0 +1,2 @@
+certifi            # HTTPS certs for the breach check
+matplotlib>=3.7   # only for storage_benchmark.py
